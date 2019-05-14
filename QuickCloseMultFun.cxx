@@ -25,7 +25,7 @@ std::pair<int, int>  findMinimumIndex( const floatPtrRestrict distancesIn,
 std::pair<int, int>  findMinimumIndex1( const floatPtrRestrict distancesIn, 
                                        const size_t n) 
 {
-float *distances = (float*)__builtin_assume_aligned(distancesIn, alignof(float));
+float *distances = (float*)__builtin_assume_aligned(distancesIn, sizeof(float));
      size_t mini  = 0; 
      size_t mini2 = -1;
      float minDistance=1e12;
