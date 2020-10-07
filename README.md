@@ -12,17 +12,12 @@ Misc
 
 Mag Field ATLAS get B
 --------
-
 - Existing gcc https://godbolt.org/z/jxKKs8
 - Existing gcc + ftree-vectorize https://godbolt.org/z/3Ka4ar
 - Existing clang https://godbolt.org/z/8EfEjf
-
 - Vec gcc https://godbolt.org/z/fa9Wh3
 - Vec gcc + ftree-vectorize https://godbolt.org/z/e49cGj
 - Vec clang https://godbolt.org/z/T7qrde
 
-Rk Utils 5x3
--------------------- 
-https://godbolt.org/z/zWcK6r
-
+https://godbolt.org/z/qfnMvK
 
