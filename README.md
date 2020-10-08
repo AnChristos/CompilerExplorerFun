@@ -19,5 +19,7 @@ Mag Field ATLAS get B
 - Vec gcc + ftree-vectorize https://godbolt.org/z/e49cGj
 - Vec clang https://godbolt.org/z/T7qrde
 
-https://godbolt.org/z/qfnMvK
+Misc Vector
+----------
+https://godbolt.org/z/xx899Y
 
