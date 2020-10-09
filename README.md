@@ -21,5 +21,5 @@ Mag Field ATLAS get B
 
 Misc Vector
 ----------
-https://godbolt.org/z/5oxPhr
+https://godbolt.org/z/hrsKc8
 
